@@ -1,0 +1,10 @@
+streamlit==1.28.0
+pandas==2.1.0
+numpy==1.24.0
+plotly==5.15.0
+talib-binary==0.4.25
+MetaTrader5==5.0.43
+python-binance==1.0.19
+websockets==12.0
+yfinance==0.2.18
+ta-lib==0.4.24
